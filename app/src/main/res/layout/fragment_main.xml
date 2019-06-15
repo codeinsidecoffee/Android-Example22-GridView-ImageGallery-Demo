@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:id="@+id/gridView"
+    android:numColumns="3"
+    android:columnWidth="90dp"
+    android:horizontalSpacing="20dp"
+    android:verticalSpacing="45dp"
+    android:gravity="center"
+    android:stretchMode="columnWidth"
+    android:layout_margin="25dp">
+
+
+
+</GridView>
